@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pebble</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 20 Oct 2026 15:39:06 -0400</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jonkthomas/pebble-updates/releases/download/v0.2.0-21/Pebble-0.2.0-21.zip" length="2508302" type="application/octet-stream" sparkle:edSignature="xs8QgzHhyPGZEQkZGeRqAHTHaJ3HClCe2buCDxkmOL/xRXywRScZOcVQkyRmoKWWjSAGfWUW6PTyj5+1d+WSCA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 9AcB5TJGsDhMyRC+qmU/lqp/F/Jmuw8gUwf4hYFbCmUtKjSVgmarjR5DX2yv8AFhju9TudcwQXw3HsrtFMHMAQ==
+length: 1131
+-->
