@@ -1,9 +1,9 @@
-# Pebble updates
+# Meerkat updates
 
-Signed, notarized macOS updates for Pebble. Application source is not published here.
+**Keep your coding limits in view.** Meerkat shows AI coding usage limits and reset times in your Mac's notch. Providers expose different data—percentages, time windows or credits—not always exact token counts.
 
-Download the latest release ZIP from [Releases](https://github.com/jonkthomas/pebble-updates/releases).
-Quit Pebble safely before the one-time manual bootstrap to an updater-enabled version.
-Subsequent releases download in the background and install when you quit, or when you choose Restart.
+When a Meerkat release is available, download its **Meerkat DMG** from [Releases](https://github.com/jonkthomas/pebble-updates/releases), open it, and drag Meerkat to Applications. Release downloads are signed and notarized for macOS 14 or later on Apple silicon. The ZIP is for automatic updates.
 
-`appcast.xml` is a signed Sparkle feed. Do not edit it after signing.
+Quit your installed copy before a manual replacement. Replace that copy rather than keep two apps. The technical app identity stays stable so existing accounts, settings and updates remain connected.
+
+Updates download in the background and install when you quit, or when you choose Restart. `appcast.xml` is a signed Sparkle feed; do not edit it after signing. The public update repository and feed address stay stable for existing installs. Application source is not published here.
