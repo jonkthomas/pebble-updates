@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meerkat</title>
         <item>
             <title>0.2.0</title>
-            <pubDate>Mon, 26 Oct 2026 19:32:53 -0400</pubDate>
-            <sparkle:version>30</sparkle:version>
+            <pubDate>Thu, 05 Nov 2026 00:32:38 -0500</pubDate>
+            <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jonkthomas/pebble-updates/releases/download/v0.2.0-30/Meerkat-0.2.0-30.zip" length="2539089" type="application/octet-stream" sparkle:edSignature="LHb/qYC3gIBGyXDyJkcK2X9ddly3Dq2+Wef3OjijRFyOhHAjfU+Ai+3I3NYDZG7JCydNCfB6Ic1ktxu5DWjKBg=="></enclosure>
+            <enclosure url="https://github.com/jonkthomas/pebble-updates/releases/download/v0.2.0-31/Meerkat-0.2.0-31.zip" length="2642475" type="application/octet-stream" sparkle:edSignature="/xLmphOJ7vzFe11dddFDouMJcv2rw+E5iiK9RNNiYJZrdWoIsiPoftJc04UdFHwYhJXbOG8kMFE7JTkPLpRSBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: yq3KbNr2SPm0UD+Msc6tK7sbuXAoN4aArFf0RMj42FeQnHCTElG0nhE/5SKoEhaUOrwf75R2P1q5xYDO+HH+Bg==
+edSignature: LS7MlQNbxnuIZ4ESAthf3Tlctp8QkMbwzcnV5z6qpBr7WQPVfwSdw9aPrrZbUreKDbg7uqxWNUy7tztkIQU+Dg==
 length: 1133
 -->
